@@ -1,2 +1,2 @@
-# imc_competition
-my solution for IMC prosperity competition, finished 22/8000 solo in round3, my algo for round 4 ronud 5 doesnt quite work.
+IMC Prosperity Competition
+my solution for IMC Prosperity competition, finished 22nd place in round3, my algo for round 4 ronud 5 doesnt quite work. Ranked 128th overall.
